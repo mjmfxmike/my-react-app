@@ -1,0 +1,18 @@
+.root {
+  text-align: center;
+}
+.selectLocation {
+  display: inline-block;
+}
+.targetingRules {
+  padding: 15px;
+}
+.targetingRule {
+  padding: 5px 0;
+}
+.targetingRule select, .targetingRule input, .targetingRule button {
+  margin-right: 5px;
+}
+button.addRule {
+  margin-bottom: 5px;
+}
